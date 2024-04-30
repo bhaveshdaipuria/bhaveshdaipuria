@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HdU55uKfsnV0dvGiFKo2mPYnjBaKJiCr/view?usp=drive_link](https://drive.google.com/file/d/1HdU55uKfsnV0dvGiFKo2mPYnjBaKJiCr/view?usp=drive_link)
 
-- ⚡ Fun fact: **🎉 I've fully embraced the Vim lifestyle, where every coding session feels like a thrilling adventure. 💻 As for VSCode, let's just say it's like a bicycle 🚲 trying to race a Ferrari 🏎️ in the coding world!**
+- ⚡ Fun fact: **🎉 Vim and Ubuntu are my dynamic duo in this coding adventure! As for VSCode? It's like the quirky sidekick trying to keep up – entertaining, but ultimately, trashy! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
